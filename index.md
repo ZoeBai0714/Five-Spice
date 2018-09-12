@@ -10,7 +10,7 @@ Sichuan cuisine, known as Chuan Cai in Chinese, enjoys an international reputati
 Now you got the answer!I have prepared some best recipes to share with all the Sichuan food lover. Let's see where the five spice can lead us to.
 
 ### Recipes
--Chili Oil
+*Chili Oil
 Start with the basics: One of the best dipping and seasoning suace,Chili Oil.
 
 ### Support or Contact
