@@ -1,6 +1,6 @@
-## Welcome to Five Spice
+<h> Welcome to Five Spice </h>
 
-What is "five spice" - start anieseed, fennel seeds, cloves and Sichuan peppers! Probably you already know it long time ago. Ok let's go a bit further, what is Sichuan five spice?
+What is 'five spice' - start anieseed, fennel seeds, cloves and Sichuan peppers! Probably you already know it long time ago. Ok let's go a bit further, what is Sichuan five spice?
 
 
 ### The Sichuan Five Spice
@@ -12,7 +12,7 @@ Now you got the answer!
 I have prepared some best recipes to share with all the Sichuan food lover. Let's see where the five spice can lead us to.
 
 ### Jekyll Themes
-To start with, I list some basic recipes.
+Start with the basics: One of the best dipping and seasoning suace,Chili Oil.
 
 ### Support or Contact
 
