@@ -2,35 +2,17 @@
 
 What is "five spice" - start anieseed, fennel seeds, cloves and Sichuan peppers! Probably you already know it long time ago. Ok let's go a bit further, what is Sichuan five spice?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### The Sichuan Five Spice
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Sichuan cuisine, known as Chuan Cai in Chinese, enjoys an international reputation for being spicy and flavorful. Yet the highly distinctive pungency is not its only characteristic (so probably you can figure out spicy must be one of them). In fact, Sichuan cuisine boasts a variety of flavors and different methods of cooking, featuring the taste of hot, sweet, sour, salty, or tongue-numbing.
 
-```markdown
-Syntax highlighted code block
+Now you got the answer!
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I have prepared some best recipes to share with all the Sichuan food lover. Let's see where the five spice can lead us to.
 
 ### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZoeBai0714/Five-Spice/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+To start with, I list some basic recipes.
 
 ### Support or Contact
 
