@@ -15,6 +15,17 @@ Now you got the answer!I have prepared some best recipes to share with all the S
 Start with the basics: One of the best dipping and seasoning suace,Chili Oil.
 ![Image of Chili Oil](https://www.saveur.com/sites/saveur.com/files/styles/655_1x_/public/chili-oil_2000x1500.jpg?itok=qb2D624_)
 
+A toasty, subtly fiery chile oil to drizzle over soup ot dip with dumplings. It's worth making a large batch; the oil will keep at room temperature for a year.
+
+Ingredients
+
+2 cups plus 2 Tbsp. vegetable oil
+2 oz. dried arbol chiles
+2 tbsp. whole Szechuan peppercorns
+
+Instructions
+In a large wok, heat 2 cups oil over medium. Add the arbol chiles and peppercorns and cook, stirring, until toasted and fragrant, about 5 minutes. Pour the oil and spices into a jar and let the chile oil cool completely. Store at room temperature for up to a year.
+
 
 ### Support or Contact
 
