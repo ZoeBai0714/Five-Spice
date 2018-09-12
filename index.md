@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Five Spice
 
-You can use the [editor on GitHub](https://github.com/ZoeBai0714/Five-Spice/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+What is "five spice" - start anieseed, fennel seeds, cloves and Sichuan peppers! Probably you already know it long time ago. Ok let's go a bit further, what is Sichuan five spice?
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
