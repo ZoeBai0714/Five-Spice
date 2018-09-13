@@ -19,9 +19,9 @@ A toasty, subtly fiery chile oil to drizzle over soup ot dip with dumplings. It'
 
 
   **Ingredients**
-* 2 cups plus 2 Tbsp. vegetable oil
-* 2 oz. dried arbol chiles
-* 2 tbsp. whole Szechuan peppercorns
+- 2 cups plus 2 Tbsp. vegetable oil
+- 2 oz. dried arbol chiles
+- 2 tbsp. whole Szechuan peppercorns
 
  **Instruction**
 
