@@ -27,8 +27,7 @@ A toasty, subtly fiery chile oil to drizzle over soup ot dip with dumplings. It'
 
 In a large wok, heat 2 cups oil over medium. Add the arbol chiles and peppercorns and cook, stirring, until toasted and fragrant, about 5 minutes. Pour the oil and spices into a jar and let the chile oil cool completely. Store at room temperature for up to a year.
 
-
-<h style="color:red"> Support or Contact </h>  
+### Support or Contact 
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
