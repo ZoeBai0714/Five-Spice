@@ -17,7 +17,7 @@ Start with the basics: One of the best dipping and seasoning suace,Chili Oil.
 
 A toasty, subtly fiery chile oil to drizzle over soup ot dip with dumplings. It's worth making a large batch; the oil will keep at room temperature for a year.
 
-Ingredients
+**Ingredients**
 
 2 cups plus 2 Tbsp. vegetable oil
 2 oz. dried arbol chiles
