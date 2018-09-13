@@ -12,7 +12,7 @@ Now you got the answer!I have prepared some best recipes to share with all the S
 
 ### Our Journey Begins here --- sauces and pastes
 
-On this website, we will start from basics to more complicated dishes. In order to avoid potentail confuse and maximize our Five Spice experience, I think it would be necessary to introduce some essential sauces and pastes. You may get some of them from local store like Kroger, HEB, whole food market in their international section. For some others you will need to drop off at Asia store to get. Ready for the adventure? Let's go!
+On this website, we will start from basics to more complicated dishes. In order to avoid potentail confuse and maximize our Five Spice experience, I think it would be necessary to introduce some essential sauces and pastes. You may get some of them from local store like Kroger, HEB, whole food market in their international section. For some others you will need to drop off at Asia store to get. Ready for the adventure? [Let's go!](https://zoebai0714.github.io/Five-Spice/)
 - **Chili Oil**
  
 Start with the basics: One of the best dipping and seasoning suace,Chili Oil.
