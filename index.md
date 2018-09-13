@@ -4,6 +4,7 @@ What is 'five spice' - start anieseed, fennel seeds, cloves and Sichuan peppers!
 
 
 ### The Sichuan Five Spice
+![Image of Sichuan paste](https://www.chinadiscovery.com/assets/images/sichuan/food/sichuan-food-tour-1920.jpg)
 
 Sichuan cuisine, known as Chuan Cai in Chinese, enjoys an international reputation for being spicy and flavorful. Yet the highly distinctive pungency is not its only characteristic (so probably you can figure out spicy must be one of them). In fact, Sichuan cuisine boasts a variety of flavors and different methods of cooking, featuring the taste of hot, sweet, sour, salty, or tongue-numbing.
 
@@ -11,7 +12,7 @@ Now you got the answer!I have prepared some best recipes to share with all the S
 
 ### Our Journey Begins here --- sauces and pastes
 
-On this website, we will start from basics to more complicated dishes. In order to avoid potentail confuse and maximize our Five Spice experience, I think it would be necessary to introduce some essential sauces and pastes. You may get some of them from local store like Kroger, HEB, whole food market in their international section. For some others you will need to drop off at Asia store to get.
+On this website, we will start from basics to more complicated dishes. In order to avoid potentail confuse and maximize our Five Spice experience, I think it would be necessary to introduce some essential sauces and pastes. You may get some of them from local store like Kroger, HEB, whole food market in their international section. For some others you will need to drop off at Asia store to get. Ready for the adventure? Let's go!
 - **Chili Oil**
  
 Start with the basics: One of the best dipping and seasoning suace,Chili Oil.
